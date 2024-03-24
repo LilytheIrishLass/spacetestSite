@@ -46,6 +46,7 @@
     padding: 10% 10%;
     margin-left: 20%;
     margin-right: 20%;
+    padding: 20% 20%;
     border-radius: 15px;
     color: white;
     font-family: "JetBrains Mono", monospace;
@@ -54,7 +55,6 @@
 #but {
     padding: 1% 1%;
 }
-
 
 @keyframes star-0 {
     0%{
